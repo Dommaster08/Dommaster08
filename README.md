@@ -1,7 +1,7 @@
 # Luan Feitosa
 
 ## Sobre Mim!
-Me chamo Luan, tenho 22 anos e estou iniciando minha aventura no mundo da programação.
+Me chamo Luan, tenho 23 anos e estou iniciando minha aventura no mundo da programação.
 
 ## Tecnologias
 <div>
