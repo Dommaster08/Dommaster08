@@ -22,13 +22,7 @@ Olá! Meu nome é Luan Feitosa, estou cursando Engenharia de Software e sou um e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="35px" height="35px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="35px" height="35px"/>
           
-          
-
-          
-          
-
-          
-          
+               
 </div>
 
-📚 Atualmente estou cursando Engenharia de Software
+
