@@ -1,5 +1,4 @@
-# Luan Feitosa
-#23
+# Luan Feitosa - 23
 
 ## Tecnologias
 <div>
@@ -9,6 +8,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35px" height="35px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35px" height="35px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35px" height="35px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35px" height="35px" />
+          
           
 </div>
 
