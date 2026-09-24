@@ -1,8 +1,7 @@
 # Luan Feitosa - 24
 
-Olá! Meu nome é Luan Feitosa, estou cursando Engenharia de Software e sou um entusiasta da programação.
+Olá! Meu nome é Luan Feitosa, formado em Engenharia de Software e um entusiasta da programação.
 
-🌱 Atualmente estou estudando Java.
 💻 Tenho experiência em React, Node, UI/UX.
 📫 Você pode entrar em contato comigo pelo email: luancx7@gmail.com.
 
